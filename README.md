@@ -2,7 +2,7 @@
 
 A lightweight, native desktop lyrics display for Spotify built in Rust with `egui`/`eframe`. SpotiFrame pairs a blurred album-art backdrop with synced, clickable lyrics via [LRCLIB](https://lrclib.net/) and built-in playback controls—designed to run cleanly on a secondary monitor or in borderless fullscreen.
 
-![SpotiFrame Preview](assets/preview.png)
+![SpotiFrame Preview](preview.mp4)
 
 ## Features
 
