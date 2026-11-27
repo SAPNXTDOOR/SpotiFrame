@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = r'''# SpotiFrame
+# SpotiFrame
 
 A lightweight, native desktop lyrics display for Spotify built in Rust with `egui`/`eframe`. SpotiFrame pairs a blurred album-art backdrop with synced, clickable lyrics via [LRCLIB](https://lrclib.net/) and built-in playback controls—designed to run cleanly on a secondary monitor or in borderless fullscreen.
 
@@ -43,11 +41,9 @@ SpotiFrame authenticates via Spotify OAuth 2.0 PKCE directly in your browser—i
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/SpotiFrame.git
+   git clone https://github.com/SAPNXTDOOR/SpotiFrame.git
    cd SpotiFrame
    ```
-
-   Replace `yourusername` with the GitHub account or organization that hosts the repository.
 
 2. Ensure the `assets/` folder contains the required files:
 
