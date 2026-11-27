@@ -36,4 +36,4 @@ Name: "{autodesktop}\SpotiFrame"; Filename: "{app}\SpotiFrame.exe"; WorkingDir: 
 Name: "{autodesktop}\SpotiFrame (Fullscreen)"; Filename: "{app}\SpotiFrame.exe"; Parameters: "-fullscreen"; WorkingDir: "{app}"; Tasks: desktop_fs
 
 [Run]
-Filename: "{app}\SpotiFrame.exe"; Description: "Launch SpotiFrame"; Flags: nowait postinstall skipifsilent
+Filename: "{app}\SpotiFrame.exe"; Description: "Launch SpotiFrame"; Flags: nowait postinstall skipifsilent 
